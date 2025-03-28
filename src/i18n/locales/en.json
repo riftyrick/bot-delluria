@@ -1,0 +1,14 @@
+{
+  "commands": {
+    "ping": {
+      "name": "ping",
+      "description": "Check latency",
+      "reply": "🏓 Pong! Latency: {{latency}}ms"
+    },
+    "patate": {
+      "name": "potetos",
+      "description": "A very useful command",
+      "reply": "🥔 Potato delivered with love!"
+    }
+  }
+}
